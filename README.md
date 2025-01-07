@@ -22,8 +22,9 @@ The primary objectives of the project are:
 3. To provide detailed insights, including EMI breakdowns for approved loans and 
 reasons for rejection.
 4. To enhance user experience through intuitive design and dynamic feedback.
-- **Status**:Completed.
-
+- **Status**:Completed!..
+  
+---
   
 - **FEATURES:**
 1. Loan Prediction: Determines loan eligibility based on user inputs.
@@ -32,6 +33,8 @@ rate and loan term.
 3. Rejection Reasons: Provides reasons for disapproval, such as high DTI ratio.
 4. Loan Suggestions: Recommends lower loan amounts for better eligibility.
 5. Dynamic Feedback: Uses toast notifications to enhance user experience.
+
+---
 
 - **RESULTS AND INSIGHTS**
  Sample Prediction (Approved):
@@ -45,11 +48,10 @@ months.
 - Output: Loan Not Approved. DTI Ratio: 125% (Risky).
 - Suggestion: Consider reducing the loan amount to ₹2 Lakhs.
 
+---
+
 - **FUTURE SCOPE**
 - Add dynamic interest rates based on market conditions.
 - Include additional loan types (e.g., home loans, car loans).
 - Deploy the application on cloud platforms like AWS for scalability.
 - Enable multi-language support for broader accessibility.
-
-
----
