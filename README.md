@@ -35,21 +35,21 @@ rate and loan term.
 
 - **RESULTS AND INSIGHTS**
  Sample Prediction (Approved):
-o Input: Applicant Income: 50,000; Loan Amount: 2 Lakhs; Loan Term: 60 
+- Input: Applicant Income: 50,000; Loan Amount: 2 Lakhs; Loan Term: 60 
 months.
-o Output: Loan Approved! EMI: ₹4,140 per month.
-o DTI Ratio: 24.5%.
+- Output: Loan Approved! EMI: ₹4,140 per month.
+- DTI Ratio: 24.5%.
  Sample Prediction (Not Approved):
-o Input: Applicant Income: 20,000; Loan Amount: 5 Lakhs; Loan Term: 120 
+- Input: Applicant Income: 20,000; Loan Amount: 5 Lakhs; Loan Term: 120 
 months.
-o Output: Loan Not Approved. DTI Ratio: 125% (Risky).
-o Suggestion: Consider reducing the loan amount to ₹2 Lakhs.
+- Output: Loan Not Approved. DTI Ratio: 125% (Risky).
+- Suggestion: Consider reducing the loan amount to ₹2 Lakhs.
 
 - **FUTURE SCOPE**
- Add dynamic interest rates based on market conditions.
- Include additional loan types (e.g., home loans, car loans).
- Deploy the application on cloud platforms like AWS for scalability.
- Enable multi-language support for broader accessibility.
+- Add dynamic interest rates based on market conditions.
+- Include additional loan types (e.g., home loans, car loans).
+- Deploy the application on cloud platforms like AWS for scalability.
+- Enable multi-language support for broader accessibility.
 
 
 ---
